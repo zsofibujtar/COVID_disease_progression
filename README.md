@@ -1,1 +1,1 @@
-# COVID_disease_progression
+# COVIDDiseaseProgression
